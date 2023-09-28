@@ -43,7 +43,7 @@ public class Ika {
 				System.out.println("Hyviä eläkepäiviä!");
 			}
 		
-		else 
+		else if (ika > 18 && ika < 65)
 		{ 
 			System.out.println("Olet aikuinen"); 
 		}
